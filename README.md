@@ -1,4 +1,3 @@
-# Facial-Recognition
 Facial Expression Recognition Challenge
 =======================================
 #Angry, Disgust, Fear, Happy, Sad, Surprise
