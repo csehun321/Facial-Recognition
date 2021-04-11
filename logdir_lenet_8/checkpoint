@@ -1,0 +1,4 @@
+model_checkpoint_path: "tf-lenet_8.ckpt-5821"
+all_model_checkpoint_paths: "tf-lenet_8.ckpt-5433"
+all_model_checkpoint_paths: "tf-lenet_8.ckpt-5627"
+all_model_checkpoint_paths: "tf-lenet_8.ckpt-5821"

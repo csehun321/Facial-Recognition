@@ -1,0 +1,4 @@
+model_checkpoint_path: "tf-resnet101_8.ckpt-19401"
+all_model_checkpoint_paths: "tf-resnet101_8.ckpt-19013"
+all_model_checkpoint_paths: "tf-resnet101_8.ckpt-19207"
+all_model_checkpoint_paths: "tf-resnet101_8.ckpt-19401"
